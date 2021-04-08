@@ -1,4 +1,4 @@
-![Logo of the project](http://logo_link)
+![Logo of the project](https://github.com/Fernando-Altir-Bastian/Docker_PostgreSQL/blob/master/Logo.png)
 
 ## Docking Postgres
 
